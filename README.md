@@ -76,7 +76,9 @@ To do this first install tmux with `micromamba install tmux` then start a sessio
 ### Setting up the control file
 
 The pipeline will look for a `control` file with in the batch directory with sample information.
+
 This file must contain MALE and FEMALE lines containing the sexes of all samples in the batch, FAMILY lines for each family/singleton in the batch, and FASTQ lines for each fastq file pair in the batch. 
+
 Here is an example:
 
 ```
@@ -100,16 +102,17 @@ BAM	TwEx2_EX2502154	ILLUMINA	223NL2LT1	TwEx2_EX2502154_223NL2LT1.bam
 ### File inputs
 The bash script to run the exome pipeline requires specific file inputs and locations. If not correct, the pipeline will error.
 
-The Exome pipeline requires that fastq files be present in a folder called 01_reads. 
-Therefore, the --batchdir path in the run_exomes.sh should be structured as:
-/path/to/fastq/01_reads
+The Exome pipeline requires that fastq files be present in a folder called 01_reads. Therefore, the --batchdir path in the run_exomes.sh should be structured as: /path/to/fastq/01_reads
 
 The pipeline also requires a .bed file which defines the targetted WES regions, which is called in to use with --target_bed
 
 --referenceFasta should point towards the .fasta file appropriate to your data. 
+
 As the pipeline uses bwa-mem1 and bwa-mem2, you will a folder in the directory where --referenceFasta points to called bwa-mem1.
 This needs to contain fasta index files: .amb, .ann, .bwt, .pac, .sa files.
+
 In the --referenceFasta path, you will need the fasta index files for bwa-mem2 which are: .fasta, .0123, .amb, .ann, .bwt.2bit.64, .pac.
+
 You will also need a samtools fasta index .fai and .dict for the GATK process in the --referenceFasta path.
 The same is needed for the chr6 specific fasta file (--chr6_fasta).
 
