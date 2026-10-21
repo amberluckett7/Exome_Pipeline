@@ -1,0 +1,70 @@
+Gene	Phenotype	MANE_RefSeq_Transcript	Ensembl_Transcript_ID	Inheritance	Notes
+CTLA4	MAD	NM_005214	ENST00000648405	Dominant	
+IL2RA	MAD	NM_000417	ENST00000379959	Recessive	
+ITCH	MAD	NM_031483	ENST00000374864	Recessive	
+LRBA	MAD	NM_001364905	ENST00000651943	Recessive	
+RNU4ATAC	MAD	NR_023343	ENST00000580972	Recessive	
+RNU6ATAC	MAD	NR_023344	ENST00000408749	Recessive	
+STAT1	MAD	NM_007315	ENST00000361099	Dominant	GoF - only missense
+STAT3	MAD	NM_139276	ENST00000264657	Dominant	GoF - only missense
+STAT5B	MAD	NM_012448	ENST00000293328	Recessive	No published diabetes but we have 2 cases and I know of another
+TNFAIP3	MAD	NM_001270508	ENST00000612899	Dominant	
+FOXP3	MAD	NM_014009	ENST00000376207	X-Linked recessive	
+APPL1	MODY	NM_012096	ENST00000288266	Recessive	
+HNF1A	MODY	NM_000545	ENST00000257555	Dominant	
+HNF1B	MODY	NM_000458	ENST00000617811	Dominant	
+HNF4A	MODY	NM_175914	ENST00000316673	Dominant	
+MAFA	MODY	NM_201589	ENST00000333480	Dominant	Only p.Ser64Phe and p.Thr57Arg
+PAX4	MODY	NM_001366110	ENST00000639438	Dominant or Recessive	
+SMPD4	Monogenic Diabetes Panel App- Green	NM_017951	ENST00000680298	Recessive	
+AGPAT2	NDM	NM_006412	ENST00000371696	Recessive	
+CNOT1	NDM	NM_016284	ENST00000317147	Dominant	
+COQ2	NDM	NM_001358921	ENST00000647002	Recessive	
+COQ9	NDM	NM_020312	ENST00000262507	Recessive	
+EIF2B1	NDM	NM_001414	ENST00000424014	Recessive	
+EIF2S3	NDM	NM_001415	ENST00000253039	X-Linked recessive	
+FICD	NDM	NM_007076	ENST00000552695	Autosomal recessive	
+GNAI2	NDM	NM_002070	ENST00000313601	Dominant	
+INSR	NDM	NM_000208	ENST00000302850	Dominant or Recessive	
+MNX1	NDM	NM_005515	ENST00000252971	Recessive	
+NARS2	NDM	NM_024678	ENST00000281038	Recessive	
+NKX2-2	NDM	NM_002509	ENST00000377142	Recessive	
+ONECUT1	NDM	NM_004498	ENST00000305901	Recessive	
+PDIA6	NDM	NM_005742	ENST00000272227	Recessive	
+SLC19A2	NDM	NM_006996	ENST00000236137	Recessive	
+TMEM167A	NDM	NM_174909	ENST00000502346	Dominant	
+YIPF5	NDM	NM_030799	ENST00000274496	Recessive	
+ZNF808	NDM	NM_001039886	ENST00000359798	Recessive	
+ABCC8	PNDM	NM_000352	ENST00000389817	Dominant or Recessive	GoF- only missense
+GATA4	PNDM	NM_001308093	ENST00000532059	Dominant	
+GATA6	PNDM	NM_005257	ENST00000269216	Dominant	
+GCK	PNDM	NM_000162	ENST00000403799	Recessive	
+GLIS3	PNDM	NM_001042413	ENST00000381971	Recessive	
+INS	PNDM	NM_000207	ENST00000381330	Dominant or Recessive	
+KCNJ11	PNDM	NM_000525	ENST00000339994	Dominant	GoF - only missense
+NEUROD1	PNDM	NM_002500	ENST00000295108	Recessive	
+NEUROG3	PNDM	NM_020999	ENST00000242462	Recessive	
+PDX1	PNDM	NM_000209	ENST00000381033	Recessive	
+PTF1A	PNDM	NM_178161	ENST00000376504	Recessive	
+RFX6	PNDM	NM_173560	ENST00000332958	Recessive	
+DYRK1B	Syndrome (Abdominal Obesity-Metabolic Syndrome 3)	NM_004714	ENST00000323039	Dominant	
+PAX6	Syndrome (Aniridia-Renal-Pancreatic Syndrome / Beta-Cell Hypoplasia)	NM_001368894	ENST00000640368	Dominant	
+AIRE	Syndrome (Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy)	NM_000383	ENST00000291582	Dominant or Recessive	
+ACTB	Syndrome (Baraitser-Winter Cerebrofrontofacial Syndrome; Green List)	NM_001101	ENST00000646664	Dominant	Only Ser348Leu variant
+DNAJC3	Syndrome (Diabetes Mellitus with Progressive Ataxia and Hearing Loss)	NM_006260	ENST00000602402	Recessive	
+SLC2A2	Syndrome (Glycogen Storage Disease Type XI)	NM_000340	ENST00000314251	Recessive	
+SLC29A3	Syndrome (H Syndrome / Pigmentary Hypertrichosis and Diabetes)	NM_018344	ENST00000373189	Recessive	
+EIF2AK3	Syndrome (Infancy Diabetes with Epiphyseal Dysplasia)	NM_004836	ENST00000303236	Recessive	
+IER3IP1	Syndrome (Microcephaly, Epilepsy, and Permanent Diabetes Syndrome)	NM_016097	ENST00000256433	Recessive	
+TRMT10A	Syndrome (Microcephaly, Intellectual Disability, and Early-Onset Diabetes)	NM_001134665	ENST00000394876	Recessive	
+PPP1R15B	Syndrome (Microcephaly, Short Stature, and Early-Onset Diabetes)	NM_032833	ENST00000367188	Recessive	
+TARS2	Syndrome (Mitochondrial Thionyl-tRNA Synthetase Mitochondrial Encephalomyopathy)	NM_025150	ENST00000369064	Recessive	
+DUT	Syndrome (Syndromic Early-Onset Diabetes with Bone Marrow Failure)	NM_001025248	ENST00000331200	Recessive	
+WFS1	Syndrome (Wolfram Syndrome Type 1 / DIDMOAD)	NM_006005	ENST00000226760	Recessive	Caution on these - v polymorphic gene and can be hard to interpret
+CISD2	Syndrome (Wolfram Syndrome Type 2)	NM_001008388	ENST00000273986	Dominant	
+DCAF17	Syndrome (Woodhouse-Sakati Syndrome)	NM_025000	ENST00000375255	Recessive	
+INS	PNDM	NM_000207	ENST00000381330	Dominant or Recessive	Note the variants causing AR or AD are different (almost always AR are PTVs/splicing/regulatory and AD are missense)
+PDCD1	MAD	NM_005018	ENST00000334409	Recessive	
+CD274	MAD	NM_014143	ENST00000381577	Recessive	
+CBLB	MAD	NM_170662	ENST00000394030	Recessive	
+PTF1A	PNDM	NM_178161	ENST00000376504	Recessive
